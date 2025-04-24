@@ -1,0 +1,11 @@
+
+.clock{
+    height: 5rem;
+    width: 10rem;
+    background-color: coral;
+    color: aliceblue;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 3rem;
+}

@@ -1,0 +1,141 @@
+
+
+.box{
+    height: 90vh;
+    width: 97vw;
+    border: 5px double black;
+    
+}
+
+.contener{
+    height: 2rem;
+    width: 80%;border: 1px solid black;
+    border-radius: 0.9rem;
+    position: absolute;
+    bottom: 1rem;
+    left: 9.5%;
+    background-color: #414141;
+}
+
+#red{
+    position: absolute;
+    top: 4px;
+    left: 20px;
+    height: 70%;
+    width: 8%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: red;
+}
+
+#cornflowerblue{
+    position: absolute;
+    top: 4px;
+    left: 20px;
+    height: 70%;
+    width: 8%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+}
+
+#blue{
+    position: absolute;
+    top: 4px;
+    left: 120px;
+    height: 70%;
+    width: 8%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: blue;
+}
+
+#green{
+    position: absolute;
+    top: 4px;
+    left: 216px;
+    height: 70%;
+    width: 8%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: green;
+}
+
+#black{
+    position: absolute;
+    top: 4px;
+    left: 316px;
+    height: 70%;
+    width: 8%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+}
+
+#aqua{
+    position: absolute;
+    top: 4px;
+    left: 416px;
+    height: 70%;
+    width: 8%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: aqua;
+}
+
+#brown{
+    position: absolute;
+    top: 4px;
+    left: 516px;
+    height: 70%;
+    width: 8%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: brown;
+}
+
+#orange{
+    position: absolute;
+    top: 4px;
+    left: 616px;
+    height: 70%;
+    width: 8%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: orange;
+}
+
+#blueviolet{
+    position: absolute;
+    top: 4px;
+    left: 716px;
+    height: 70%;
+    width: 8%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: blueviolet;
+}
+
+
+#crimson{
+    position: absolute;
+    top: 4px;
+    left: 816px;
+    height: 70%;
+    width: 8%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color:crimson;
+}
+
+
+#yellow{
+    position: absolute;
+    top: 4px;
+    left: 916px;
+    height: 70%;
+    width: 8%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color:yellow;
+}
